@@ -16,9 +16,7 @@
 ## 安装与运行环境
 运行环境目前支持：
 
-· Windows Server2012、2018、2022服务器
-
-· Windows10、11个人电脑
+· Windows Server2012、2018、2022服务器 或 Windows10、11个人电脑
 
 · APIkey费用：您需要自备 apikey 1个，Token使用量走您自己的apikey限额
 
